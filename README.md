@@ -23,7 +23,7 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 
 ## Program:
 ### Gram-Schmidt Method
-```
+
 
 Program to QR decomposition using the Gram-Schmidt method
 Developed by: JAYAVARTHAN P
@@ -54,10 +54,10 @@ QR_Decomposition(a)
 
 
 
-```
+
 
 ## Output
-```
+
 
 
 
@@ -68,7 +68,7 @@ QR_Decomposition(a)
 
 
 
-```
+
 
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
